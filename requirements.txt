@@ -1,2 +1,3 @@
 stremlit
 plotly
+pandas
